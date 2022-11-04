@@ -10,22 +10,22 @@ const chalk = require("chalk")
 // Other
 global.thum = fs.readFileSync("./media/image/thumb.jpg")
 global.log0 = fs.readFileSync("./media/image/mans.jpg")
-global.err4r = fs.readFileSync("./media/image/error.jpg")
-global.owner = ['6283152753417','6283121365947','6288292024190']
+global.error = fs.readFileSync("./media/image/error.jpg")
+global.owner = ['6281271010619']
 global.rkyt = []
-global.ntilink = ['120363043965529911@g.us']
-global.ntihide = ['120363043965529911@g.us']
-global.ntidel = ['120363043965529911@g.us']
-global.wlcm = ['120363043965529911@g.us']
-global.autkick = ['120363043965529911@g.us']
-global.gcrevoke = ['16472412324-1386525986@g.us']
+global.ntilink = ['6281271010619@g.us']
+global.ntihide = ['6281271010619@g.us']
+global.ntidel = ['6281271010619@g.us']
+global.wlcm = ['6281271010619@g.us']
+global.autkick = ['6281271010619@g.us']
+global.gcrevoke = ['6281271010619@g.us']
 global.wjoind = []
 global.wleaved = []
-global.packname = "MyMans APIs"
-global.packname2 = "MyMainas"
-global.author = "ZackMans"
+global.packname = "𝚂𝙷𝚄𝚁𝙰𝙽𝙱𝙾𝚃𝚉-𝙼𝙳"
+global.packname2 = "𝚂𝙷𝚄𝚁𝙰𝙽𝙱𝙾𝚃𝚉-𝙼𝙳"
+global.author = "Turu++"
 global.sessionName = "mans"
-global.linkgrupss = "https://chat.whatsapp.com/HDmXvmHpEkE9wRJy3IO6OZ"
+global.linkgrupss = "https://chat.whatsapp.com/JdE67kv45hGIx3G8SL5EZI"
 global.antitags = true
 global.autred = true
 global.anticals = true
@@ -44,7 +44,7 @@ global.mess = {
 }
 global.limitawal = {
     rakyat: "Infinity",
-    free: 100
+    free: 200
 }
 
 let file = require.resolve(__filename)
